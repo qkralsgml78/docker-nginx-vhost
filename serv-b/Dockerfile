@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /etc/nginx/nginx.conf
+COPY index.html /usr/share/nginx/html
